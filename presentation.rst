@@ -30,30 +30,74 @@ Fantasy Computer Examples
 
 ----
 
+Why program fantasy computers?
+==============================
+
+----
+
+Real computers...
+=================
+
+* Newer computers have many layers of abstraction
+* Many different frameworks
+* Large engines (Godot / Unity / Unreal, etc.)
+
+----
+
+Real computer...
+================
+
+* Older computers have a steep learning curve
+* Choices for languages tend to be either BASIC or Assembly
+* BASIC is slow, Assembly can be complex
+* Usually have custom chips that need special code to do graphics / sound
+
+----
+
+Fantasy computer
+================
+
+* No custom hardware
+* Artificial limits
+* Modern programming languages
+* Usually flat architecture / memory map
+
+----
+
 Why TIC80?
 ==========
 
 * Open Source (MIT license)
 * Comparable to 16 bit consoles
 * Integrated Development Environment
-* LUA Based
+* Lua Based
 * Closest feature-wise to PICO-8
+* Runs on many platforms
+
+----
+
+TIC80 Specifications
+====================
+
+* DISPLAY	240x136 pixels, 16 colors palette
+* INPUT	2 gamepads with 8 buttons / mouse
+* SPRITES	256 8x8 foreground sprites and 256 8x8 background tiles
+* MAP	240x136 cells, 1920x1088 pixels
+* SOUND	4 channels with configareble waveforms
+* CODE	64KB of Lua or Moonscript or JavaScript
 
 ----
 
 Specifications
 ==============
 
-* 64K RAM
-* 16 Color Sprites
-* Map Editor
 * Exportable to HTML5 pages
 * Bank Switching (Pro mode)
-* Number of Simultaneous Sounds
+* Save to text files (Pro mode)
 
 ----
 
-Quick Demo
+Quick Tour
 ==========
 
 ----
