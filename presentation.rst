@@ -9,6 +9,11 @@
 TIC80 Fantasy Computer
 ======================
 
+.. image:: ./tic80.png
+    :height: 200px
+    :width: 200px
+
+
 * Presented by: Craig Maloney
 * Penguicon 2018
 * http://decafbad.net
@@ -79,12 +84,12 @@ Why TIC80?
 TIC80 Specifications
 ====================
 
-* DISPLAY	240x136 pixels, 16 colors palette
-* INPUT	2 gamepads with 8 buttons / mouse
-* SPRITES	256 8x8 foreground sprites and 256 8x8 background tiles
-* MAP	240x136 cells, 1920x1088 pixels
-* SOUND	4 channels with configareble waveforms
-* CODE	64KB of Lua or Moonscript or JavaScript
+* DISPLAY: 240x136 pixels, 16 colors palette
+* INPUT: 2 gamepads with 8 buttons / mouse
+* SPRITES: 256 8x8 foreground sprites and 256 8x8 background tiles
+* MAP: 240x136 cells, 1920x1088 pixels
+* SOUND: 4 channels with configurable waveforms
+* CODE: 64KB of Lua or Moonscript or JavaScript
 
 ----
 
@@ -102,8 +107,11 @@ Quick Tour
 
 ----
 
-Building a game
-===============
+Demo Game
+=========
+
+
 
 ----
+
 
