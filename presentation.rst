@@ -16,7 +16,7 @@ TIC80 Fantasy Computer
 
 * Presented by: Craig Maloney
 * Penguicon 2018
-* http://decafbad.net
+* Website: `http://decafbad.net <http://decafbad.net>`_
 
 ----
 
@@ -110,8 +110,28 @@ Quick Tour
 Demo Game
 =========
 
+----
 
+Learn more
+==========
+
+`http://tic.computer <http://tic.computer>`_
 
 ----
 
+Thank you!
+==========
 
+----
+
+TIC80 Fantasy Computer
+======================
+
+.. image:: ./tic80.png
+    :height: 200px
+    :width: 200px
+
+
+* Presented by: Craig Maloney
+* Penguicon 2018
+* Website: `http://decafbad.net <http://decafbad.net>`_
