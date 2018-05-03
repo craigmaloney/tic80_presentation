@@ -40,8 +40,8 @@ Why program fantasy computers?
 
 ----
 
-Real computers...
-=================
+Modern computers...
+===================
 
 * Newer computers have many layers of abstraction
 * Many different frameworks
@@ -49,13 +49,21 @@ Real computers...
 
 ----
 
-Real computer...
-================
+Retro computers...
+==================
 
 * Older computers have a steep learning curve
+* Usually have custom chips that need special code to do graphics / sound
+
+----
+
+Retro computers...
+==================
+
 * Choices for languages tend to be either BASIC or Assembly
 * BASIC is slow, Assembly can be complex
-* Usually have custom chips that need special code to do graphics / sound
+* Other languages might be available but might not be able to access all facets of the machine
+* Other arcane bugs / requirements
 
 ----
 
@@ -64,8 +72,9 @@ Fantasy computer
 
 * No custom hardware
 * Artificial limits
-* Modern programming languages
+* Modern programming languages (usually Lua)
 * Usually flat architecture / memory map
+* Some have built-in editors
 
 ----
 
@@ -93,8 +102,8 @@ TIC80 Specifications
 
 ----
 
-Specifications
-==============
+TIC80 Specifications
+====================
 
 * Exportable to HTML5 pages
 * Bank Switching (Pro mode)

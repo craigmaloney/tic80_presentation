@@ -55,7 +55,7 @@ function ate_fruit()
  move_to=mget(p.x+p.dx,p.y+p.dy)
 	if move_to==16 then
 	 p.s=p.s+1
-		timer=timer-2
+		timer=timer-.5
 		if timer<2 then
 		 timer=2
 		end
